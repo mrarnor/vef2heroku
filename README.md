@@ -1,2 +1,2 @@
-# vef2heroku
-heroku verkefni 1
+# VSH3
+verkefni 1
